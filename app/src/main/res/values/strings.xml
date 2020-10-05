@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Mobile Dev Assignment</string>
+
+    <string name="text_view">My algos</string>
+    <string name="cell_view1">element 1</string>
+    <string name="cell_view2">element 2</string>
+    <string name="cell_view3">element 3</string>
+    <string name="cell_view4">element 4</string>
+    <string name="cell_view5">element 5</string>
+    <string name="cell_view6">element 6 </string>
+    <string name="cell_view7">element 7</string>
+    <string name="cell_view8">element 8</string>
+    <string name="cell_view9">element 9</string>
+    <string name="cell_view10">element 10</string>
+    <string name="cell_view11">element 11</string>
+    <string name="cell_view12">element 12</string>
+    <string name="cell_view13">element 13</string>
+    <string name="cell_view14">element 14</string>
+    <string name="cell_view15">element 15</string>
+    <string name="cell_view16">element 16</string>
+
+
+    <string name="cell_view_1">element 1</string>
+    <string name="cell_view_2">element 2</string>
+    <string name="cell_view_3">element 3</string>
+    <string name="cell_view_4">element 4</string>
+    <string name="cell_view_5">element 5</string>
+    <string name="cell_view_6">element 6 </string>
+    <string name="cell_view_7">element 7</string>
+    <string name="cell_view_8">element 8</string>
+    <string name="cell_view_9">element 9</string>
+    <string name="cell_view_10">element 10</string>
+    <string name="cell_view_11">element 11</string>
+    <string name="cell_view_12">element 12</string>
+
+
+    <string name="head_description">Head</string>
+    <string name="head_view">0</string>
+    <string name="tail_description">Tail</string>
+    <string name="tail_view">0</string>
+
+
+    <string name="insert_string">String</string>
+    <string name="insert_string_queue">String</string>
+    <string name="insert_number">Insert number</string>
+
+    <string name="push_button">Push</string>
+    <string name="enqueue_button">Enqueue</string>
+    <string name="pop_button">Pop</string>
+    <string name="dequeue_button">Dequeue</string>
+    <string name="clear_stack_button">Clear Stack</string>
+    <string name="clear_queue_button">Clear Q</string>
+    <string name="calculate_button">Calculate</string>
+
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+
+
+</resources>
